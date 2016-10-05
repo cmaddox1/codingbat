@@ -2,7 +2,7 @@
 
 This is the base repo for codingbat (<http://codingbat.com/python>) exercises. For each type of exercises, I provided solution to the first question. Please follow my coding style (docstrings, testing, etc.) to solve the rest of questions.
 
-This exercise is optional. There is no grading pressure or timing pressure. However, I strongly recommand you try all the questions all by yourself. **DO NOT google the solutions.**  
+This exercise is optional. There is no grading pressure or timing pressure. However, I strongly recommand you try all the questions without other's help. **DO NOT google the solutions.**  
 
 ## How to submit
 
